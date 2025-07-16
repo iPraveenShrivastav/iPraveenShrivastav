@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iPraveenShrivastav
 - 👀 I’m interested in front-end and iOS development 
 - 🌱 I’m currently learning iOS development with Swift. Meanwhile, I’m keeping my frontend skills fresh with the latest JavaScript frameworks and CSS tricks.
-- 💞️ I’m looking to collaborate on Frontend Projects
+- 💞️ I’m looking to collaborate on Frontend Projects and iOS Projects
 - 😄 Pronouns: He/Him
 
 
